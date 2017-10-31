@@ -3,6 +3,7 @@ CHANGELOG for Sulu
 
 
 * dev-master
+    * HOTFIX      #XXXX [WebsiteBundle]           Only display analytics in the actual env
     * ENHANCEMENT #3554 [WebsiteBundle]           Return webspaceKey on StructureResolver
 
 * 1.6.5 (2017-10-04)
